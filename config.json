@@ -1,0 +1,47 @@
+{
+  "name": "short-life-2",
+  "app_id": "short-life-2",
+  "cdn_base": "https://cdn.jsdelivr.net/gh/classrom-gg/game-repo-short-life-2@main/short-life-2/",
+  "urls": {
+    "loader": "Build/UnityLoader.js"
+  },
+  "files": {
+    "UnityLoader.js": {
+      "cdn_path": "https://cdn.jsdelivr.net/gh/classrom-gg/game-repo-short-life-2@main/short-life-2/Build\\UnityLoader.js",
+      "local_path": "Build\\UnityLoader.js",
+      "size": 159236,
+      "size_mb": 0.15,
+      "needs_chunk": false
+    },
+    "y6.data.unityweb": {
+      "cdn_path": "https://cdn.jsdelivr.net/gh/classrom-gg/game-repo-short-life-2@main/short-life-2/Build\\y6.data.unityweb",
+      "local_path": "Build\\y6.data.unityweb",
+      "size": 10364116,
+      "size_mb": 9.88,
+      "needs_chunk": false
+    },
+    "y6.json": {
+      "cdn_path": "https://cdn.jsdelivr.net/gh/classrom-gg/game-repo-short-life-2@main/short-life-2/Build\\y6.json",
+      "local_path": "Build\\y6.json",
+      "size": 450,
+      "size_mb": 0.0,
+      "needs_chunk": false
+    },
+    "y6.wasm.code.unityweb": {
+      "cdn_path": "https://cdn.jsdelivr.net/gh/classrom-gg/game-repo-short-life-2@main/short-life-2/Build\\y6.wasm.code.unityweb",
+      "local_path": "Build\\y6.wasm.code.unityweb",
+      "size": 6233647,
+      "size_mb": 5.94,
+      "needs_chunk": false
+    },
+    "y6.wasm.framework.unityweb": {
+      "cdn_path": "https://cdn.jsdelivr.net/gh/classrom-gg/game-repo-short-life-2@main/short-life-2/Build\\y6.wasm.framework.unityweb",
+      "local_path": "Build\\y6.wasm.framework.unityweb",
+      "size": 94438,
+      "size_mb": 0.09,
+      "needs_chunk": false
+    }
+  },
+  "chunks_needed": [],
+  "large_files": []
+}
